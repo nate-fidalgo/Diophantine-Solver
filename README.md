@@ -10,4 +10,12 @@ This program can act as a way to quickly compute distributively diophaintine equ
 Python is a great language and usually comes installed by default on linux/unix systems 
 <br>All that is required is diopy.py file and to run it type `python diopy.py` at the terminal then enter the information in the format below
 <br>
-
+<pre>
+<code>
+x^2+z+y = 14  # diophaintine equation 
+x z y         # variables 
+0 1 2         # start range of variables
+30 400 5000   # end range of variables
+1  10  100    # incremental jumps for variables
+</code>
+</pre>
