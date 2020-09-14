@@ -13,7 +13,7 @@ Python is a great language and usually comes installed by default on linux/unix 
 <pre>
 <code>
 x^2+z+y = 14  # diophaintine equation to solve
-x z y         # variables 
+x z y         # variables in the order they first appear left to right in above equation
 0 1 2         # start range of the x z y variables
 30 400 5000   # end range of the x z y variables
 1  10  100    # incremental jumps for the x z y variables
