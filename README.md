@@ -19,3 +19,5 @@ x z y         # variables in the order they first appear left to right in above 
 1  10  100    # incremental jumps for the x z y variables
 </code>
 </pre>
+<br>
+`The incremental jumps mean x will increment like i+=1 , z+=10 , y+=100 on can make more complex type of jump patterns to search complex patterns`
