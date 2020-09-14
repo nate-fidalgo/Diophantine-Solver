@@ -20,4 +20,4 @@ x z y         # variables in the order they first appear left to right in above 
 </code>
 </pre>
 <br>
-`The incremental jumps mean x will increment like i+=1 , z+=10 , y+=100 on can make more complex type of jump patterns to search complex patterns`
+<code>The incremental jumps mean x will increment like i+=1 , z+=10 , y+=100 on can make more complex type of jump patterns to search complex patterns</code>
