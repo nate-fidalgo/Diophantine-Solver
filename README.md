@@ -25,7 +25,7 @@ x z y         # variables in the order they first appear left to right in above 
 
 Please note you must write the diophantine equation with all variables on left hand side of equal sign for this program to work!!!
 <br>
-For example finding all euler bricks with each entry under 40 would be inputed as
+For example finding all Pythagorean quadruple with each entry under 40 would be inputed as
 <br>
 <pre>
 <code>
@@ -41,7 +41,7 @@ a b c d
 
 <pre>
 <code>
-List of all eulers bricks with each entry between 1 and 40
+List of all Pythagorean quadruples with each entry between 1 and 40
 
 (1, 2, 2, 3)
 (1, 4, 8, 9)
