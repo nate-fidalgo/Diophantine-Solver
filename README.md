@@ -41,7 +41,7 @@ a b c d
 
 <pre>
 <code>
-List of some eulers bricks with each entry under 40
+List of all eulers bricks with each entry between 1 and 40
 
 (1, 2, 2, 3)
 (1, 4, 8, 9)
