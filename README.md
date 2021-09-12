@@ -23,7 +23,7 @@ x z y         # variables in the order they first appear left to right in above 
 <code>The incremental jumps mean variables will increment like i+=1 , z+=10 , y+=100 one can make more complex type of jump patterns/searches </code>
 <br>
 
-Please note you must write the diophantine equation with all variables on left hand side of equal side for this program to work!!!
+Please note you must write the diophantine equation with all variables on left hand side of equal sign for this program to work!!!
 <br>
 For example finding all euler bricks with each entry under 40 would be inputed as
 <br>
